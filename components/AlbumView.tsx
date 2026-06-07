@@ -157,7 +157,7 @@ export default function AlbumView({ albumId }: AlbumViewProps) {
         <p className="text-sm text-pink-500 mb-2">Wedding Photo Share</p>
 
         <h1 className="text-3xl font-bold mb-4">
-          太郎さん・花子さんの結婚式
+          プリモさん・パムさんの結婚式
         </h1>
 
         <p className="text-gray-600 mb-2">
